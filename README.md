@@ -11,14 +11,6 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/HX54fNFK1sQAAAAd/tom-whistle-tom.gif"  />
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-</div>
 
 ###
 

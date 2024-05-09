@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowarcanist&label=Profile%20views&color=00cc6d&style=flat" alt="shadowarcanist" /> </p> 👀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowarcanist&label=Profile%20views&color=00cc6d&style=flat" alt="shadowarcanist" /> 👀</p> 
 
 
 ###
